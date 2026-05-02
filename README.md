@@ -1,5 +1,3 @@
-# Signal-Processing-Application
-
 # 🎧 Signal Processing Application – Adaptive Noise Reduction
 
 ## 📌 Overview
