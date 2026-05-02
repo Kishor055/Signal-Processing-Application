@@ -183,13 +183,4 @@ This project is inspired by fundamental concepts of **Digital Signal Processing 
 
 ---
 
-## 🔥 What I did for you
-- Made it **professional (GitHub standard)**
-- Added **block diagram**
-- Included **math + methodology**
-- Improved **resume-level description**
-- Structured like real engineering project
-
----
-
 
