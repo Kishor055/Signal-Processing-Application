@@ -192,13 +192,4 @@ This project is inspired by fundamental concepts of **Digital Signal Processing 
 
 ---
 
-## 🚀 If you want next upgrade
-I can:
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
 
-Just tell me 👍
-::contentReference[oaicite:1]{index=1}
-```
